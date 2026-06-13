@@ -3,7 +3,7 @@ Lightspeed Virtual Machine completely Free App supports Android 16. 光速虚拟
 
 **温馨提醒：**
 
-**1.由于自安卓12起Google限制了一个App最大只允许拥有32个子进程，所以每次启动虚拟机前，先要在激活界面点击激活。**
+**1.由于自安卓12起Google限制了一个App最大只允许拥有32个子进程，所以在启动前先要确保进程限制已被解除。**
 
 **2.非必要请保持虚拟机GPU信息为本机选项，否则可能导致启动时卡99%或黑屏。**
 
